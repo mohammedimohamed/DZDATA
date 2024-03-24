@@ -191,6 +191,46 @@
     {
       "code": "48",
       "name": "Relizane"
+    },
+    {
+      "code": "49",
+      "name": "Timimoun"
+    },
+    {
+      "code": "50",
+      "name": "Bordj Badji Mokhtar"
+    },
+    {
+      "code": "51",
+      "name": "Ouled Djellal"
+    },
+    {
+      "code": "52",
+      "name": "Béni Abbès"
+    },
+    {
+      "code": "53",
+      "name": "In Salah"
+    },
+    {
+      "code": "54",
+      "name": "In Guezzam"
+    },
+    {
+      "code": "55",
+      "name": "Touggourt"
+    },
+    {
+      "code": "56",
+      "name": "Djanet"
+    },
+    {
+      "code": "57",
+      "name": "El M'Ghair"
+    },
+    {
+      "code": "58",
+      "name": "El Meniaa"
     }
   ]
 }
