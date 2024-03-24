@@ -1,0 +1,16 @@
+{
+  "wilayas": [
+    {
+      "code": "01",
+      "name": "Adrar"
+    },
+    {
+      "code": "02",
+      "name": "Chlef"
+    },
+    {
+      "code": "03",
+      "name": "Laghouat"
+    }
+  ]
+}
